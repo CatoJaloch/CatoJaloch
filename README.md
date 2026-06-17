@@ -1,8 +1,4 @@
-[GitHub Profile Setup.md](https://github.com/user-attachments/files/29033715/GitHub.Profile.Setup.md)
-## Hi there 👋
-
-<!--
-**CatoJaloch/CatoJaloch** is a ✨ _special<p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Your+Subtitle+or+Professional+Tagline+Here&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
 </p>
 
@@ -43,3 +39,11 @@ A brief, 2-3 sentence introduction about who you are, what you are passionate ab
 
 ---
 
+## Connect With Me
+
+- 💼 **Professional Network:** [Link to your LinkedIn, Portfolio, or CV]
+- 📧 **Direct Contact:** [Your email address or professional contact point]
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=100&section=footer" />
+</p>
