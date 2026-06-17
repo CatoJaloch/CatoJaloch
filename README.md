@@ -6,7 +6,7 @@
 
 I'm a Full-Stack Developer with a deep passion for Machine Learning and data-driven problem solving. I love working with data to uncover patterns, generate meaningful insights, and build intelligent systems that turn raw numbers into real decisions. Whether it's engineering a robust backend or training a predictive model, I enjoy the full journey from data to impact.
 
-- 🔭 **Current Focus:** Building **WeatherGuard** — a machine learning-based weather risk prediction and automated alert system that fuses forecast API data with historical weather patterns for proactive decision support
+- 🔭 **Current Focus:** Building **ClearCast** — a machine learning-based weather risk prediction and automated alert system that fuses forecast API data with historical weather patterns for proactive decision support
 - 🌱 **Learning & Exploration:** Currently deepening my skills in **Power BI** for data visualisation and dashboarding, and expanding my **Python** knowledge across data science and ML workflows
 - ⚡ **Core Interests:** Data Science · Machine Learning · Full-Stack Development · Predictive Analytics · Data Visualisation
 
